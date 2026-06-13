@@ -1,0 +1,16 @@
+date,exercise_name,category,duration,calories_burned,distance,sets,reps
+2025-05-01,Running,Cardio,30,320,5.2,0,0
+2025-05-02,Cycling,Cardio,45,450,12.5,0,0
+2025-05-03,Bench Press,Strength,40,220,0,4,12
+2025-05-04,Squats,Strength,35,250,0,4,15
+2025-05-05,Walking,Cardio,60,280,4.8,0,0
+2025-05-06,Deadlift,Strength,45,300,0,5,8
+2025-05-07,Running,Cardio,35,350,6.0,0,0
+2025-05-08,Push Ups,Strength,25,150,0,4,20
+2025-05-09,Cycling,Cardio,50,480,14.0,0,0
+2025-05-10,Pull Ups,Strength,30,180,0,4,10
+2025-05-11,Running,Cardio,40,400,7.0,0,0
+2025-05-12,Leg Press,Strength,35,240,0,4,12
+2025-05-13,Walking,Cardio,55,260,4.5,0,0
+2025-05-14,Shoulder Press,Strength,30,200,0,4,10
+2025-05-15,Cycling,Cardio,60,550,16.0,0,0

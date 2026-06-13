@@ -73,3 +73,6 @@ fitness-tracker/
 ├── dashboard.py
 ├── requirements.txt
 └── README.md
+
+TODO:
+Need to add unit test cases and also wanted to load the data which is present in data folder when application startup occurs.
